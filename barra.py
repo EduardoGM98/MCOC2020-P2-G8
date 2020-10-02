@@ -1,5 +1,5 @@
 import numpy as np
-
+from numpy import  float64
 g = 9.81 #kg*m/s^2
 
 class Barra(object):
