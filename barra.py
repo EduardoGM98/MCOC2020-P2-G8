@@ -47,7 +47,7 @@ class Barra(object):
         T0 = np.array([[-cos], [-sen], [cos], [sen]])
         
         ke = (T0 @ T0.T) * K
-        #ke
+        
 
         return ke 
 
