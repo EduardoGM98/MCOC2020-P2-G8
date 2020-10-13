@@ -2,8 +2,7 @@
 # Entrega 4
 
 1. Escoja 5 barras interesantes del reticulado (identificadas por sus nodos) y manualmente realice el rediseño, buscando minimizar el peso de la barra y cumplir con FU < 1.0 pero cerca a 1.0 comparando con los resultados de su programa. <br>
-![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/5barras%20caso1FINAL.png)
-![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/5barras%20caso2.png) 
+ 
   - R.
     - Barra: 3, nodos 0-8
     - Barra: 6, nodos 1-5
@@ -12,6 +11,9 @@
     - Barra: 24, nodos 5-9
    
   Para realizar manualmente el rediseño se utilizó una planilla excel, la cual contenía todas las variables y parámetros necesarios. La idea fue ir analizando de qué manera afectaba la variación de los parámetros “R” y “t” dentro del modelo, con los que se fue iterando para obtener el mayor valor del FU de cada barra, respetando las condiciones de tracción y compresión. 
+  
+![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/5barras%20caso1FINAL.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/5barras%20caso2.png)
 
 2. Explique en detalle su función de rediseño de cada barra. Si existen supuestos importantes, declararlos ahora.
 
