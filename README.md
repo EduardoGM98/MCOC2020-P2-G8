@@ -4,11 +4,11 @@
 1. Escoja 5 barras interesantes del reticulado (identificadas por sus nodos) y manualmente realice el rediseño, buscando minimizar el peso de la barra y cumplir con FU < 1.0 pero cerca a 1.0 comparando con los resultados de su programa. 
 
   R.
-  -Barra: 3, nodos 0-8
-  -Barra: 6, nodos 1-5
-  -Barra: 11, nodos 2-5
-  -Barra: 23, nodos 5-8
-  -Barra: 24, nodos 5-9
+  - Barra: 3, nodos 0-8
+  - Barra: 6, nodos 1-5
+  - Barra: 11, nodos 2-5
+  - Barra: 23, nodos 5-8
+  - Barra: 24, nodos 5-9
 
 2. Explique en detalle su función de rediseño de cada barra. Si existen supuestos importantes, declararlos ahora.
 
