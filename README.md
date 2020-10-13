@@ -11,7 +11,7 @@
 
 3. Mostrar los nuevos factores de utilización, fuerzas en las barras y deformada para cada combinación de carga. Para esto, graficando todo lo pedido y explicando sus criterios de rediseño. ¿Cual es el desplazamiento vertical máximo en los nodos del tablero del reticulado antes y después de los cambios?
 
-  R.
+  R. 
 
 4. Comente respecto de la nueva distribución de F U del reticulado y el peso del mismo. ¿Qué cambios globales se pueden hacer para mejorar aún más el costo (peso del acero) del mismo?
 
