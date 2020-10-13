@@ -20,14 +20,14 @@
   
   Tensiones caso 1, 1,4D
   
-  ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/Tensiones%20caso%201%2C%20%201%2C4D.png)
+  ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/Tensiones_caso_1.png)
   
   Tensiones caso 2, 1,2D x 1,6L
   
-  ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/Tensiones%20caso%202%2C%20%201%2C2D%2B1%2C6L.png)
+  ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/Tensiones_caso_2.png)
   
-  ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/FU%20caso%201%2C%201%2C4D.png)
-  ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/FU%20caso%202%2C%201%2C2D%20%2B%201%2C6L.png)
+  ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/FU_caso_1.png)
+  ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/FU_caso_2.png)
   
   Para rediseñar nos centramos en que se cumplan las siguientes condiciones: FU < 1 pero siendo cercano a 1, lambda < 300 y que Fn*sigma < Fu
 
