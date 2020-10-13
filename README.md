@@ -12,8 +12,8 @@
 
 2. Explique en detalle su función de rediseño de cada barra. Si existen supuestos importantes, declararlos ahora.
 
-  - R. Hicimos 4 supuesto importantes: FU > 0.95, FU <= 1, landa < 300, Fn x ϕ >= Fu. Podemos entender el factor de utilidad como un indicador de cuánta tensión soporta cada barra, este factor es la división entre la fuerza última y la fuerza nominal reducida. Este factor no debe ser mayor a 1 ya que de lo contrario no sería una estructura segura, pero lo óptimo (para aprovechar al máximo los recursos) es que sea un valor cercano a 1. Por otro lado, la esbeltez (lambda) se define como el largo de la barra dividido por el radio de giro de la barra. Este valor debe superar 300 ya que de esta forma se puede controlar el diseño de elementos que soportan muy poca carga. 
-
+  - R. Hicimos 4 supuesto importantes: FU > 0.95, FU <= 1, landa < 300, Fn x ϕ >= Fu. Podemos entender el factor de utilidad como un indicador de cuánta tensión soporta cada barra, este factor es la división entre la fuerza última y la fuerza nominal reducida. Este factor no debe ser mayor a 1 ya que de lo contrario no sería una estructura segura, pero lo óptimo (para aprovechar al máximo los recursos) es que sea un valor cercano a 1. Por otro lado, la esbeltez (lambda) se define como el largo de la barra dividido por el radio de giro de la barra. Este valor debe superar 300 ya que de esta forma se puede controlar el diseño de elementos que soportan muy poca carga. <br>
+  ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/landa.png)
 3. Mostrar los nuevos factores de utilización, fuerzas en las barras y deformada para cada combinación de carga. Para esto, graficando todo lo pedido y explicando sus criterios de rediseño. ¿Cual es el desplazamiento vertical máximo en los nodos del tablero del reticulado antes y después de los cambios?
 
   - R. 
