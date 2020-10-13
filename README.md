@@ -9,7 +9,8 @@
     - Barra: 11, nodos 2-5
     - Barra: 23, nodos 5-8
     - Barra: 24, nodos 5-9
-    Para realizar manualmente el rediseño se utilizó una planilla excel, la cual contenía todas las variables y parámetros necesarios. La idea fue ir analizando de qué manera afectaba la variación de los parámetros “R” y “t” dentro del modelo, con los que se fue iterando para obtener el mayor valor del FU de cada barra, respetando las condiciones de tracción y compresión. 
+   
+  Para realizar manualmente el rediseño se utilizó una planilla excel, la cual contenía todas las variables y parámetros necesarios. La idea fue ir analizando de qué manera afectaba la variación de los parámetros “R” y “t” dentro del modelo, con los que se fue iterando para obtener el mayor valor del FU de cada barra, respetando las condiciones de tracción y compresión. 
 
 2. Explique en detalle su función de rediseño de cada barra. Si existen supuestos importantes, declararlos ahora.
 
