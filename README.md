@@ -14,8 +14,10 @@
   R. 
   Tensiones caso 1, 1,4D
   ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/Tensiones%20caso%201%2C%20%201%2C4D.png)
+  
   Tensiones caso 2, 1,2D x 1,6L
   ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/Tensiones%20caso%202%2C%20%201%2C2D%2B1%2C6L.png)
+  
   ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/FU%20caso%201%2C%201%2C4D.png)
   ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/FU%20caso%202%2C%201%2C2D%20%2B%201%2C6L.png)
   
