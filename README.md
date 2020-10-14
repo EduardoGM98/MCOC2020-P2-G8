@@ -12,8 +12,21 @@
    
   Para realizar manualmente el rediseño se utilizó una planilla excel, la cual contenía todas las variables y parámetros necesarios. La idea fue ir analizando de qué manera afectaba la variación de los parámetros “R” y “t” dentro del modelo, con los que se fue iterando para obtener el mayor valor del FU de cada barra, respetando las condiciones de tracción y compresión. 
   
+  Los resultados para las distintas barras fueron:
+  - Barra Nº3:
+  ![Captura de Pantalla 2020-10-13 a la(s) 23 23 12](https://user-images.githubusercontent.com/69252038/95936058-1488a400-0dab-11eb-8943-253bacb034b3.png)
+  - Barra Nº6, Nº11, Nº23, Nº24:
+  ![Captura de Pantalla 2020-10-13 a la(s) 23 29 10](https://user-images.githubusercontent.com/69252038/95936428-efe0fc00-0dab-11eb-9c7d-13e2aae29887.png)
+  
+  En resumen:
+  ![Captura de Pantalla 2020-10-13 a la(s) 23 31 02](https://user-images.githubusercontent.com/69252038/95936528-2b7bc600-0dac-11eb-92c9-760f9f282f39.png)
+  
+  Podemos notar que los numeros de FU son pequeños y distintos a los valores obtenidos por el programa, esto se debe a que elegimos las barras con menores cargas dentro del reticulado para disminuir en mayor cantidad el peso total de la estructura. Además, consideramos valores minimos para los parametros R y t, siendo 1cm y 1mm, respectivamente, para aferrarnos un poco a un caso real de estructura, y solo se pueda aumentar o disminuir su magnitud en 1cm o 1mm. Un ejemplo es que el radio de las barras no podia ser 3.5 cm, puede ser o 3cm o 4cm. 
+  
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/5barras%20caso1FINAL.png)
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/5barras%20caso2.png)
+
+ Los valores del programa consideraron valores intermedios, esto quiere decir que no se consideraron las limitaciones definidas anteriormente para los valores de R y t. Por lo tanto el radio si podia encontrarse en valores decimales al igual que el espesor de esta. 
 
 2. Explique en detalle su función de rediseño de cada barra. Si existen supuestos importantes, declararlos ahora.
 
