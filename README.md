@@ -19,6 +19,7 @@
   ![Captura de Pantalla 2020-10-13 a la(s) 23 29 10](https://user-images.githubusercontent.com/69252038/95936428-efe0fc00-0dab-11eb-9c7d-13e2aae29887.png)
   
   - En resumen:
+  
   ![Captura de Pantalla 2020-10-13 a la(s) 23 31 02](https://user-images.githubusercontent.com/69252038/95936528-2b7bc600-0dac-11eb-92c9-760f9f282f39.png)
   
   Podemos notar que los numeros de FU son pequeños y distintos a los valores obtenidos por el programa, esto se debe a que elegimos las barras con menores cargas dentro del reticulado para disminuir en mayor cantidad el peso total de la estructura. Además, consideramos valores minimos para los parametros R y t, siendo 1cm y 1mm, respectivamente, para aferrarnos un poco a un caso real de estructura, y solo se pueda aumentar o disminuir su magnitud en 1cm o 1mm. Un ejemplo es que el radio de las barras no podia ser 3.5 cm, puede ser o 3cm o 4cm. 
