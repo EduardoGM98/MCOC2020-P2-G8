@@ -50,7 +50,10 @@
   
   Para rediseñar nos centramos en que se cumplan las siguientes condiciones: FU < 1 pero siendo cercano a 1, lambda < 300 y que Fn*sigma < Fu
 
+4. ¿Cual es el desplazamiento vertical máximo en los nodos del tablero del reticulado antes y después de los cambios?
 
-4. Comente respecto de la nueva distribución de F U del reticulado y el peso del mismo. ¿Qué cambios globales se pueden hacer para mejorar aún más el costo (peso del acero) del mismo?
+ - R.  
+
+5. Comente respecto de la nueva distribución de F U del reticulado y el peso del mismo. ¿Qué cambios globales se pueden hacer para mejorar aún más el costo (peso del acero) del mismo?
 
   - R. Para poder seguir disminuyendo el peso del reticulado se podría utilizar otro tipo de acero que sea menos denso que el que estamos utilizando pero que también pueda soportar las solicitaciones. 
