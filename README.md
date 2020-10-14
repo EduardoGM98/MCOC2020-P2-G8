@@ -27,7 +27,7 @@
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/5barras%20caso1FINAL.png)
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/5barras%20caso2.png)
 
- Los valores del programa consideraron valores intermedios, esto quiere decir que no se consideraron las limitaciones definidas anteriormente para los valores de R y t. Por lo tanto el radio si podia encontrarse en valores decimales al igual que el espesor de esta. 
+ Los valores del programa consideraron valores intermedios, esto quiere decir que no se consideraron las limitaciones definidas anteriormente para los valores de R y t. Por lo tanto el radio si podia encontrarse en valores decimales al igual que el espesor de esta. Es por eso que los valores de FU entregados por el programa son bastante mas cercanos a 1.
 
 2. Explique en detalle su función de rediseño de cada barra. Si existen supuestos importantes, declararlos ahora.
 
