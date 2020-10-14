@@ -33,7 +33,7 @@
 
   - R. Hicimos 4 supuesto importantes: FU > 0.95, FU <= 1, landa < 300, Fn x ϕ >= Fu. Podemos entender el factor de utilidad como un indicador de cuánta tensión soporta cada barra, este factor es la división entre la fuerza última y la fuerza nominal reducida. Este factor no debe ser mayor a 1 ya que de lo contrario no sería una estructura segura, pero lo óptimo (para aprovechar al máximo los recursos) es que sea un valor cercano a 1. Por otro lado, la esbeltez (lambda) se define como el largo de la barra dividido por el radio de giro de la barra. Este valor debe superar 300 ya que de esta forma se puede controlar el diseño de elementos que soportan muy poca carga. <br>
   ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/landa.png)
-3. Mostrar los nuevos factores de utilización, fuerzas en las barras y deformada para cada combinación de carga. Para esto, graficando todo lo pedido y explicando sus criterios de rediseño. 
+3. Mostrar los nuevos factores de utilización, fuerzas en las barras y deformada para cada combinación de carga. Para esto, graficando todo lo pedido y explicando sus criterios de rediseño. ¿Cual es el desplazamiento vertical máximo en los nodos del tablero del reticulado antes y después de los cambios?
 
   - R. 
   
@@ -48,12 +48,22 @@
   ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/FU_caso_1.png)
   ![alt text](https://github.com/EduardoGM98/MCOC2020-P2-G8/blob/master/FU_caso_2.png)
   
-  Para rediseñar nos centramos en que se cumplan las siguientes condiciones: FU < 1 pero siendo cercano a 1, lambda < 300 y que Fn*sigma < Fu
+  Para rediseñar nos centramos en que se cumplan las siguientes condiciones: FU < 1 pero siendo cercano a 1, lambda < 300 y que Fn*sigma < Fu <br>
+  En relacion con los desplazamientos nodales, los del modelo original son los siguienes: <br>
+  [0.0
+,-0.0001103099784649426
+,-0.00011030997846494263
+,0.0
+,-5.954476607643114e-05
+,-0.00011590512712154298
+,-5.9544766076431144e-05
+,0.0
+,-0.00010783378797162111
+,-0.00010783378797162112
+,0.0]
+  
 
-4. ¿Cual es el desplazamiento vertical máximo en los nodos del tablero del reticulado antes y después de los cambios?
 
- - R.  
-
-5. Comente respecto de la nueva distribución de F U del reticulado y el peso del mismo. ¿Qué cambios globales se pueden hacer para mejorar aún más el costo (peso del acero) del mismo?
+4. Comente respecto de la nueva distribución de F U del reticulado y el peso del mismo. ¿Qué cambios globales se pueden hacer para mejorar aún más el costo (peso del acero) del mismo?
 
   - R. Para poder seguir disminuyendo el peso del reticulado se podría utilizar otro tipo de acero que sea menos denso que el que estamos utilizando pero que también pueda soportar las solicitaciones. 
